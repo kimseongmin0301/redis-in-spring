@@ -1,2 +1,1 @@
 # redis-in-spring
-test
